@@ -6,6 +6,17 @@ JSON 데이터를 깔끔하게 볼 수 있게 하는 jquery plugin 입니다.
 Port of Ben Hollis's JSONView extension for Firefox: http://jsonview.com
 
 [Live demo](http://blog.yesmeck.com/jquery-jsonview/)
+## screenshot
+
+#### AS-IS
+![AS-IS](http://github.com/neotune/jquery-jsonview/blob/master/screenshots/as-is.JPG?raw=true)
+
+#### TO-BE
+![TO-BE](http://github.com/neotune/jquery-jsonview/blob/master/screenshots/to-be.jpg?raw=true)
+
+## change history
+
+1. element 확인이 용이 하도록 css 수정
 
 ## example
 
