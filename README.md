@@ -9,10 +9,10 @@ Port of Ben Hollis's JSONView extension for Firefox: http://jsonview.com
 ## screenshot
 
 #### AS-IS
-![AS-IS](jquery-jsonview/blob/master/screenshots/as-is.JPG?raw=true)
+![AS-IS](screenshots/as-is.jpg?raw=true)
 
 #### TO-BE
-![TO-BE](jquery-jsonview/blob/master/screenshots/to-be.jpg?raw=true)
+![TO-BE](screenshots/to-be.jpg?raw=true)
 
 ## change history
 
